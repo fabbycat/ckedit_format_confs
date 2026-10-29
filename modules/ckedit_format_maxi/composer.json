@@ -1,5 +1,5 @@
 {
-    "name": "format_html_maxi_ckedit/format_html_maxi_ckedit",
+    "name": "ckedit_format_maxi/ckedit_format_maxi",
     "description": "A CKEditor format that allows the use of a wide range of HTML tags and attributes. It should only be considered for the most trusted users with the highest levels of privilege.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",

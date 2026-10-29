@@ -1,5 +1,5 @@
 {
-    "name": "format_html_mini_ckedit/format_html_mini_ckedit",
+    "name": "ckedit_format_mini/ckedit_format_mini",
     "description": "A restrictive CKEditor format that allows the use of a range of HTML tags.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",

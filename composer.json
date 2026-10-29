@@ -1,6 +1,6 @@
 {
-    "name": "text_format_confs/text_format_confs",
-    "description": "A collection of text formats ranging from minimally restricted to tightly restricted. These filters can be reused in modules and when managing content through the Drupal administration interface.",
+    "name": "ckedit_format_confs/ckedit_format_confs",
+    "description": "A collection of CKEditor formats ranging from minimally restricted to tightly restricted. These filters can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "require": {

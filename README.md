@@ -19,7 +19,8 @@ considered for the most trusted users with the highest levels of privilege.
 
 This HTML has the following settings enabled:
 
-[Further information on the specific tags and attributes](modules/format_html_maxi_src/TAGS-AND-ATTRIBUTES.md) that are enabled are available in the submodule's directory.
+[Further information on the specific tags and attributes](modules/format_html_maxi_src/TAGS-AND-ATTRIBUTES.md) that are 
+enabled are available in the submodule's directory.
 
 ## CKEditor: Midi Format
 

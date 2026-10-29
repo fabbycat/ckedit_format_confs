@@ -1,6 +1,6 @@
-name: 'CKEditor: Midi Format'
-machine_name: 'format_html_midi_ckedit'
-description: 'A CKEditor format that allows the use of a well balanced range of HTML tags and attributes.'
+name: 'CKEditor: Mini Format'
+machine_name: 'ckedit_format_mini'
+description: 'A restrictive CKEditor format that allows the use of a range of HTML tags.'
 # lifecycle:
 # lifecycle_link:
 # project status url:
@@ -16,7 +16,7 @@ dependencies:
   - drupal:system
   - drupal:text
   - drupal:user
-  - text_format_rules:text_format_rules
+  - ckedit_format_confs:ckedit_format_confs
 # test_dependencies:
 # configure:
 # configure_parameters:

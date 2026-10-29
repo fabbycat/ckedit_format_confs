@@ -1,5 +1,5 @@
 {
-    "name": "text_format_confs",
+    "name": "ckedit_format_confs",
     "description": "A collection of text formats ranging from minimally restricted to tightly restricted. These filters can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "module",
     "devDependencies": {
