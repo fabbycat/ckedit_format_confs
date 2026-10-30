@@ -1,5 +1,5 @@
 {
-    "name": "ckedit_format_midi/ckedit_format_midi",
+    "name": "format_ckedit_midi/format_ckedit_midi",
     "description": "A CKEditor format that allows the use of a well balanced range of HTML tags and attributes.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",

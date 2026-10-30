@@ -1,6 +1,6 @@
-name: 'CKEditor: Midi Format'
-machine_name: 'ckedit_format_midi'
-description: 'A CKEditor format that allows the use of a well balanced range of HTML tags and attributes.'
+name: 'CKEditor: Mini Format'
+machine_name: 'format_ckedit_mini'
+description: 'A restrictive CKEditor format that allows the use of a range of HTML tags.'
 # lifecycle:
 # lifecycle_link:
 # project status url:
